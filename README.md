@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src='images\READMEbanner.png' style="width:100%;">
+
+### ✨Hi! I'm currently enrolled in the Full-stack Flex Web Development Bootcamp and finding it to be an incredibly fulfilling experience. I find coding to be a natural fit for me because it speaks to how I process information. It's like solving a puzzle, and I love the feeling of accomplishment that comes with finding a solution to a problem. In addition to my analytical side, I'm also a creative person who loves to express myself through various mediums. One of my favorite artists is Taylor Swift, whose music inspires me to pursue my passions and be true to myself. I'm eager to continue learning and growing as a developer, and I'm excited to see where this journey takes me.✨ 
 
 <!--
 **emcarr99/emcarr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
